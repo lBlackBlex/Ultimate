@@ -1,0 +1,5 @@
+#!/bin/bash
+#figlet -f ANSI\ Shadow $1 | lolcat -a
+figlet -f 3d $1 | lolcat
+#figlet -f rebel $1 | lolcat
+#figlet -f DOS\ Rebel $1 | lolcat -a
