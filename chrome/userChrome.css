@@ -1,0 +1,11 @@
+/*AGENT_SHEET*/
+
+/* Base Theme */
+@import url(./css/base.css);
+
+/* Pages */
+@import url(./css/pagesChrome.css);
+
+:root {
+	--uwp-accent-color: -moz-win-accentcolor; /* Global Accent Color */
+}
