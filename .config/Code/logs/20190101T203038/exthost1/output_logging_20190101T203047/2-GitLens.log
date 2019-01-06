@@ -1,0 +1,20 @@
+[2019-01-02 02:31:03:765] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-02 02:34:39:383] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/main.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-02 02:34:55:297] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/main.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-02 02:35:38:404] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/main.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+

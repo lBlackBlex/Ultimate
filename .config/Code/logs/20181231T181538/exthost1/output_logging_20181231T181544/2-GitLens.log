@@ -1,0 +1,890 @@
+[2019-01-01 00:35:27:862] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:35:41:129] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:36:34:400] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:36:42:992] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:36:44:584] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:37:02:020] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:37:09:825] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:37:12:680] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:37:21:119] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:38:25:472] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:38:35:003] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:38:55:426] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:42:26:328] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:42:37:656] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:42:51:261] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:44:01:879] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:44:14:747] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 00:46:04:790] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:20:48:211] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:20:53:910] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:29:44:581] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:30:17:445] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:30:35:032] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:41:32:626] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/main.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:41:35:629] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/router.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 01:41:36:304] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:13:55:011] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:14:13:688] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:14:26:216] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:14:30:305] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:14:35:903] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:14:41:049] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:16:49:034] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:17:36:706] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:17:47:115] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:18:01:961] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:18:10:727] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:18:25:853] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:18:37:936] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:19:19:412] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:19:35:300] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:19:49:328] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:19:51:467] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:20:06:551] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:20:18:801] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:20:35:574] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:20:48:783] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:20:52:962] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:21:11:008] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:21:14:636] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:21:34:841] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:21:47:850] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:22:06:742] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:22:21:104] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:22:29:908] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:22:32:890] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:22:39:163] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:22:49:518] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:23:12:468] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:23:18:369] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:23:42:940] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:23:55:854] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:24:01:131] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:24:03:604] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:24:19:735] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:24:24:819] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:24:43:759] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:24:54:900] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:26:08:487] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:26:16:455] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:26:31:562] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:30:52:921] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:31:45:485] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:32:58:247] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:33:21:890] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:33:32:663] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:33:37:413] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:33:47:728] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:02:504] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:06:276] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:11:472] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:20:195] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:27:205] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:35:282] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:40:952] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:44:271] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:34:48:557] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:36:18:487] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/App.vue,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:41:29:817] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:41:36:261] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:41:49:195] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:42:06:801] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:42:15:473] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:42:26:098] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:44:16:866] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:44:22:696] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:44:38:391] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:44:49:898] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:44:55:566] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:45:07:397] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:45:27:487] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:45:44:917] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:45:55:222] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:48:12:899] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:48:24:249] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:48:39:432] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 02:48:58:185] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:04:40:625] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:04:43:154] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:05:05:335] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:05:18:975] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:05:26:346] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:05:35:429] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:05:49:261] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:05:58:939] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:06:17:623] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:06:29:491] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:06:33:442] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:06:40:760] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:06:42:469] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:07:08:946] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:07:35:028] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:07:50:353] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:07:59:436] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:08:04:969] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:08:25:830] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:08:29:934] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:08:35:813] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:08:38:257] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:08:52:975] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:08:58:060] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:09:11:956] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:09:15:968] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:09:32:055] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:09:41:935] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:09:48:990] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:10:35:748] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:10:45:044] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:10:55:668] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:11:07:138] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:11:24:487] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:11:26:392] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:11:36:268] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:11:40:416] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:12:17:826] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:12:24:773] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:12:34:204] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:12:40:464] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:12:45:280] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:12:54:778] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:12:58:388] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:13:02:540] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:13:24:947] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:13:26:051] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:13:40:242] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:13:56:380] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:14:26:556] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:15:01:251] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:15:23:373] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:15:28:242] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:18:13:796] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:18:28:641] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:00:079] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:02:372] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:10:016] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:10:654] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:32:296] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:32:563] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:40:961] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:19:51:363] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:20:02:450] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:20:12:951] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:20:15:777] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:20:18:611] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:20:43:346] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:20:48:247] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:21:11:506] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-01-01 03:21:26:608] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/store.js,   cwd='/home/blackblex/Documentos/node-apps/plastimar-app/client'
+
+  
+Error: fatal: no such ref: HEAD
+

@@ -1,0 +1,26 @@
+[2018-12-31 21:28:09.120] [renderer1] [info] standard startup
+[2018-12-31 21:50:36.758] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:50:40.691] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:51:22.078] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:51:31.535] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:56:39.686] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:56:46.806] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:59:19.146] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 23:38:32.307] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 23:39:54.553] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 23:40:00.845] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 23:43:38.681] [renderer1] [error] write EPIPE: Error: write EPIPE
+    at _errnoException (util.js:1024:11)
+    at WriteWrap.afterWrite (net.js:867:14)
+[2019-01-01 01:35:19.840] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:35:31.233] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:36:28.483] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:36:55.275] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:38:56.668] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:39:11.260] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:43:52.996] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:43:58.168] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:44:11.240] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 01:44:19.505] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 02:14:17.000] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-01 02:14:27.880] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

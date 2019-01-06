@@ -1,0 +1,35 @@
+! Snazzy - Converted from https://github.com/sindresorhus/iterm2-snazzy
+!          using https://github.com/richo/itermcolors2xdefaults
+!URxvt*background:   #1e1f28
+URxvt*background:   #212121
+URxvt*foreground:   #ebece6
+URxvt*cursorColor:   #e4e4e4
+URxvt*color0:   #000
+URxvt*color1:   #fb4245
+URxvt*color2:   #50fa7b
+URxvt*color3:   #f0fa8b
+URxvt*color4:   #49b9fe
+URxvt*color5:   #fb4cb3
+URxvt*color6:   #8be9fd
+URxvt*color7:   #ededec
+URxvt*color8:   #555555
+URxvt*color9:   #fb4245
+URxvt*color10:   #50fa7b
+URxvt*color11:   #f0fa8b
+URxvt*color12:   #49b9fe
+URxvt*color13:   #fb4cb3
+URxvt*color14:   #8be9fd
+URxvt*color15: #ededec
+
+URxvt.font: xft:Hack\Nerd\Font:size=11
+URxvt*highlightColor: #252936
+URxvt*highlightTextColor: #C0C5CE
+URxvt.cursorBlink: true
+
+!URxvt.perl-ext-common: default,tabbed
+!URxvt.scrollstyle: plain
+!URxvt*scrollColor: #d1e4e0
+URxvt.scrollBar: false
+
+Xcursor.theme: deepin
+Xcursor.size: 16

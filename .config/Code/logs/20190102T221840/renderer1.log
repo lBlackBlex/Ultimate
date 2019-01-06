@@ -1,0 +1,28 @@
+[2019-01-02 22:18:51.477] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-02 22:19:08.835] [renderer1] [warning] UNRESPONSIVE extension host, 'eamodio.gitlens' took 95% of 198.838ms, saved PROFILE here: '/tmp/exthost-8e9f53.cpuprofile' [{"id":"eamodio.gitlens","total":188140,"percentage":95}]
+[2019-01-02 22:32:06.379] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at t._lineAt (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:377:34)
+    at Object.lineAt (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:375:860)
+    at TagManager.getNewWord (/home/blackblex/.vscode/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/tagManager.js:97:33)
+    at TagManager.updatePairedTag (/home/blackblex/.vscode/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/tagManager.js:90:27)
+    at __dirname.run.vscode.workspace.onDidChangeTextDocument.event (/home/blackblex/.vscode/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/tagManager.js:14:18)
+    at e.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:133:218)
+    at e.$acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:538:1008)
+    at t._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:658:837)
+    at t._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:658:509)
+    at t._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:657:126)
+    at t._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:656:59)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:653:895
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:130:793
+    at e.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:133:218)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:186:147)
+    at Socket.n._socketDataListener (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:186:368)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2019-01-02 22:33:55.979] [renderer1] [error] write EPIPE: Error: write EPIPE
+    at _errnoException (util.js:1024:11)
+    at WriteWrap.afterWrite (net.js:867:14)

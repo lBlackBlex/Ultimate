@@ -1,0 +1,22 @@
+[2018-12-31 18:15:44.532] [renderer1] [info] no standard startup: not the explorer viewlet
+[2018-12-31 18:15:55.137] [renderer1] [warning] UNRESPONSIVE extension host, 'Zignd.html-css-class-completion' took 90% of 5146.137ms, saved PROFILE here: '/tmp/exthost-033c73.cpuprofile' [{"id":"gc","total":89269,"percentage":2},{"id":"program","total":5255,"percentage":0},{"id":"self","total":440056,"percentage":9},{"id":"Zignd.html-css-class-completion","total":4608527,"percentage":90}]
+[2018-12-31 20:14:24.505] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:17:55.332] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:17:57.361] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:17:58.459] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:17:59.600] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:18:03.989] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:21:39.278] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:24:31.669] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:24:38.253] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:44:27.980] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:44:30.960] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 20:44:33.501] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:04:37.431] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:11:25.680] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:11:38.297] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:12:20.058] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:12:21.559] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:18:09.701] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:20:34.691] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-31 21:20:45.239] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

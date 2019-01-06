@@ -1,0 +1,617 @@
+Initializing document watcher...
+Rebuilding config map...
+plastimar-app/client/src/components/Popup.vue: Using EditorConfig core...
+Detected change in configuration: {}
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Projects.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Projects.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Projects.vue: Applying configuration map...
+plastimar-app/client/src/views/Projects.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Team.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Team.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/router.js: Using EditorConfig core...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: trimTrailingWhitespace()
+client/src/router.js: editor.action.trimTrailingWhitespace
+client/src/router.js: editor.action.trimTrailingWhitespace
+client/src/router.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Login.vue: Using EditorConfig core...
+plastimar-app/client/src/components/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+client/src/router.js: editor.action.trimTrailingWhitespace
+client/src/router.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Using EditorConfig core...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Login.vue: Applying configuration map...
+plastimar-app/client/src/components/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Login.vue: Applying configuration map...
+plastimar-app/client/src/components/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Login.vue: Applying configuration map...
+plastimar-app/client/src/components/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Login.vue: Applying configuration map...
+plastimar-app/client/src/components/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Login.vue: Applying configuration map...
+plastimar-app/client/src/components/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Login.vue: editor.action.trimTrailingWhitespace
+client/src/components/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Login.vue: Applying configuration map...
+plastimar-app/client/src/components/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/router.js: trimTrailingWhitespace()
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+client/src/router.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+Untitled-1.txt: Using EditorConfig core...
+Untitled-1: {}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: trimTrailingWhitespace()
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+Untitled-1.txt: Applying configuration map...
+Untitled-1: {}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: trimTrailingWhitespace()
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Navbar.vue: Using EditorConfig core...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.1.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Login.1.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+client/src/router.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Using EditorConfig core...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: trimTrailingWhitespace()
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/main.js: Using EditorConfig core...
+plastimar-app/client/src/main.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Dashboard.vue: Applying configuration map...
+plastimar-app/client/src/views/Dashboard.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: trimTrailingWhitespace()
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Projects.vue: Applying configuration map...
+plastimar-app/client/src/views/Projects.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+client/src/views/Register.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Register.vue: Applying configuration map...
+plastimar-app/client/src/views/Register.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Login.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Login.vue: Applying configuration map...
+plastimar-app/client/src/views/Login.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/firebase.js: Using EditorConfig core...
+plastimar-app/client/src/firebase.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Popup.vue: Applying configuration map...
+plastimar-app/client/src/components/Popup.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/store.js: Applying configuration map...
+plastimar-app/client/src/store.js: {"insertSpaces":true,"tabSize":2}
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace
+client/src/store.js: editor.action.trimTrailingWhitespace

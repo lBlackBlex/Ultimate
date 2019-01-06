@@ -1,0 +1,40 @@
+Vetur initialized
+[Error - 7:35:51] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. Invalid container kind.
+  Code: -32603 
+[Error - 7:51:53] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. Invalid container kind.
+  Code: -32603 
+[Error - 8:05:19] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:08:27] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:15:15] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:19:04] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:19:51] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:28:31] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:28:34] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:33:34] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:39:08] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:39:24] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 
+[Error - 8:40:16] Request textDocument/documentHighlight failed.
+  Message: Request textDocument/documentHighlight failed with message: Debug Failure. False expression.
+  Code: -32603 

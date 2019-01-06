@@ -1,0 +1,231 @@
+[Info  - 23:44:08] Using tsserver from: /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib
+[Info  - 23:44:08] Forking TSServer
+[Info  - 23:44:08] Started TSServer
+[Error  - 1:18:26] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 1:20:13] 'signatureHelp' request failed with error.
+Error processing request. Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)
+    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)
+    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)
+    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29
+    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)
+    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)
+    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:120
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:44
+    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103438:27
+    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)
+    at createJSSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103437:56)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103371:56)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)
+    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 1:20:39] 'signatureHelp' request failed with error.
+Error processing request. Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)
+    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)
+    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)
+    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29
+    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)
+    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)
+    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:120
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:44
+    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103438:27
+    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)
+    at createJSSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103437:56)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103371:56)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)
+    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 1:47:06] 'signatureHelp' request failed with error.
+Error processing request. Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)
+    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)
+    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)
+    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29
+    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)
+    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)
+    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103375:23
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103373:32)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)
+    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 1:47:53] 'signatureHelp' request failed with error.
+Error processing request. Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)
+    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)
+    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)
+    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29
+    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)
+    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)
+    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103375:23
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103373:32)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)
+    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 2:17:09] 'signatureHelp' request failed with error.
+Error processing request. Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)
+    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)
+    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)
+    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29
+    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)
+    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)
+    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:120
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:44
+    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103438:27
+    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)
+    at createJSSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103437:56)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103371:56)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)
+    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)

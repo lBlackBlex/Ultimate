@@ -1,0 +1,23 @@
+###########################
+# xbindkeys configuration #
+###########################
+
+# Increase backlight
+"xbacklight -inc 10"
+   XF86MonBrightnessUp
+
+# Decrease backlight
+"xbacklight -dec 10"
+   XF86MonBrightnessDown
+
+# Audio play
+"playerctl play-pause"
+   XF86AudioPlay
+
+# Audio next
+"playerctl next"
+   XF86AudioNext
+
+# Audio previous
+"playerctl previous"
+   XF86AudioPrev

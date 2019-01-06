@@ -65,9 +65,8 @@ ZSH_THEME="spaceship"
 plugins=(
   gitfast
   command-not-found
-  npm
-  sudo  
-  yarn 
+  sudo
+  yarn
   extract
   zsh-autosuggestions
   zsh-syntax-highlighting
@@ -104,7 +103,19 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#alias pac="sudo pacman -S"
 alias pac="sudo pacman -S"
+alias zshrc="vim ~/.zshrc"
 alias clean="sudo pacman -Scc"
+alias pacu="sudo pacman -Syyu"
+alias c="clear"
+alias q="exit"
+alias list="tmux list-sessions"
+alias join="tmux attach -t "
+alias quit="tmux kill-session -t "
+alias rename="tmux rename-window -t "
+#alias rm="rm -i"
+alias clean-firefox="profile-cleaner f"
+alias process="lsof -w -n -i tcp:8080"
+alias killp="kill -9 "

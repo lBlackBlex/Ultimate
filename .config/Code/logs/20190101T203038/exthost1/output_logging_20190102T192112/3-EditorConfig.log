@@ -1,0 +1,353 @@
+Initializing document watcher...
+Rebuilding config map...
+Detected change in configuration: {}
+plastimar-app/client/src/assets/scss/_variables.scss: Using EditorConfig core...
+plastimar-app/client/src/assets/scss/_variables.scss: {}
+plastimar-app/client/src/assets/scss/app.scss: Using EditorConfig core...
+plastimar-app/client/src/assets/scss/app.scss: {}
+plastimar-app/client/src/assets/scss/_variables.scss: Applying configuration map...
+plastimar-app/client/src/assets/scss/_variables.scss: {}
+plastimar-app/client/public/index.html: Using EditorConfig core...
+plastimar-app/client/public/index.html: {}
+plastimar-app/client/src/views/Home.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/HelloWorld.vue: Using EditorConfig core...
+plastimar-app/client/src/components/HelloWorld.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Using EditorConfig core...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/About.vue: Using EditorConfig core...
+plastimar-app/client/src/views/About.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Using EditorConfig core...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: trimTrailingWhitespace()
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+client/src/views/Home.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/App.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/router.js: Using EditorConfig core...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Home.vue: trimTrailingWhitespace()
+client/src/router.js: trimTrailingWhitespace()
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+client/src/router.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/About.vue: Applying configuration map...
+plastimar-app/client/src/views/About.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/About.1.vue: Using EditorConfig core...
+plastimar-app/client/src/views/About.1.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/About.vue: Applying configuration map...
+plastimar-app/client/src/views/About.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Team.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Team.vue: {"insertSpaces":true,"tabSize":2}
+client/src/router.js: trimTrailingWhitespace()
+client/src/views/Team.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+client/src/router.js: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/views/Home.vue: Applying configuration map...
+plastimar-app/client/src/views/Home.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Team.vue: Applying configuration map...
+plastimar-app/client/src/views/Team.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Projects.vue: Using EditorConfig core...
+plastimar-app/client/src/views/Projects.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Team.vue: Applying configuration map...
+plastimar-app/client/src/views/Team.vue: {"insertSpaces":true,"tabSize":2}
+client/src/views/Team.vue: editor.action.trimTrailingWhitespace
+client/src/views/Team.vue: insertFinalNewline(LF)
+client/src/views/Projects.vue: trimTrailingWhitespace()
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/components/Navbar.vue: Applying configuration map...
+plastimar-app/client/src/components/Navbar.vue: {"insertSpaces":true,"tabSize":2}
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+client/src/components/Navbar.vue: editor.action.trimTrailingWhitespace
+plastimar-app/client/src/router.js: Applying configuration map...
+plastimar-app/client/src/router.js: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Team.vue: Applying configuration map...
+plastimar-app/client/src/views/Team.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/views/Projects.vue: Applying configuration map...
+plastimar-app/client/src/views/Projects.vue: {"insertSpaces":true,"tabSize":2}
+plastimar-app/client/src/App.vue: Applying configuration map...
+plastimar-app/client/src/App.vue: {"insertSpaces":true,"tabSize":2}

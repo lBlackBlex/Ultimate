@@ -1,0 +1,262 @@
+[2019-01-02 23:41:56.577] [exthost] [info] extension host started
+[2019-01-02 23:41:56.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:56.604] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-02 23:41:56.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:56.651] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-01-02 23:41:56.715] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:56.715] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-01-02 23:41:56.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:56.912] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-02 23:41:56.981] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:56.981] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-01-02 23:41:58.095] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:58.095] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/eamodio.gitlens-9.3.0/dist/extension
+[2019-01-02 23:41:58.227] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:58.227] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/editorconfig.editorconfig-0.12.6/out/src/editorConfigMain
+[2019-01-02 23:41:58.874] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:58.874] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2019-01-02 23:41:58.892] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:58.892] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2019-01-02 23:41:59.476] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-01-02 23:41:59.476] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/zignd.html-css-class-completion-1.17.1/out/src/extension
+[2019-01-02 23:42:05.822] [exthost] [info] eager extensions activated
+[2019-01-02 23:44:08.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-01-02 23:44:08.044] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-01-02 23:44:08.170] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-01-02 23:44:08.170] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2019-01-02 23:46:04.636] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-01-02 23:46:04.636] [exthost] [info] ExtensionService#loadCommonJSModule /home/blackblex/.vscode/extensions/octref.vetur-0.14.5/dist/client/vueMain
+[2019-01-02 23:46:15.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-01-02 23:46:15.797] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extension
+[2019-01-03 00:21:23.744] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 00:21:23.765] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 00:21:24.001] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 00:21:24.002] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 00:21:24.076] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 00:21:24.076] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 00:21:34.757] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 00:21:34.757] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 00:21:40.906] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 00:21:40.906] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 00:48:10.697] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 00:48:10.697] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:13:23.778] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:13:23.837] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:18:26.622] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:18:26.623] [exthost] [error] {"seq":0,"type":"response","command":"getCodeFixes","request_seq":3115,"success":false,"message":"Error processing request. Cannot read property 'parent' of undefined\nTypeError: Cannot read property 'parent' of undefined\n    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)\n    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)\n    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)\n    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)\n    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)\n    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121\n    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)\n    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35\n    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)\n    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)\n    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)\n    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88\n    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)\n    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)\n    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)\n    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)\n    at emitOne (events.js:116:13)\n    at Interface.emit (events.js:211:7)\n    at Interface._onLine (readline.js:282:10)\n    at Interface._normalWrite (readline.js:424:12)\n    at Socket.ondata (readline.js:141:10)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at Pipe.onread (net.js:594:20)"}
+[2019-01-03 01:19:15.931] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:19:15.931] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:19:22.149] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:19:22.149] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:19:22.890] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:19:22.891] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:20:05.812] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:20:05.812] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:20:06.949] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:20:06.949] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:20:13.951] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:20:13.952] [exthost] [error] {"seq":0,"type":"response","command":"signatureHelp","request_seq":3616,"success":false,"message":"Error processing request. Cannot read property 'emitNode' of undefined\nTypeError: Cannot read property 'emitNode' of undefined\n    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)\n    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)\n    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)\n    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29\n    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)\n    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)\n    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79\n    at Array.map (<anonymous>)\n    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:120\n    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:44\n    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103438:27\n    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)\n    at createJSSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103437:56)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103371:56)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)\n    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)\n    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88\n    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)\n    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)\n    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)\n    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)\n    at emitOne (events.js:116:13)\n    at Interface.emit (events.js:211:7)\n    at Interface._onLine (readline.js:282:10)\n    at Interface._normalWrite (readline.js:424:12)\n    at Socket.ondata (readline.js:141:10)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at Pipe.onread (net.js:594:20)"}
+[2019-01-03 01:20:14.810] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:20:14.810] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:20:17.300] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:20:17.301] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:20:17.477] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:20:17.478] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:20:39.929] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:20:39.929] [exthost] [error] {"seq":0,"type":"response","command":"signatureHelp","request_seq":3698,"success":false,"message":"Error processing request. Cannot read property 'emitNode' of undefined\nTypeError: Cannot read property 'emitNode' of undefined\n    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)\n    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)\n    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)\n    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29\n    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)\n    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)\n    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79\n    at Array.map (<anonymous>)\n    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:120\n    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:44\n    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103438:27\n    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)\n    at createJSSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103437:56)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103371:56)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)\n    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)\n    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88\n    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)\n    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)\n    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)\n    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)\n    at emitOne (events.js:116:13)\n    at Interface.emit (events.js:211:7)\n    at Interface._onLine (readline.js:282:10)\n    at Interface._normalWrite (readline.js:424:12)\n    at Socket.ondata (readline.js:141:10)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at Pipe.onread (net.js:594:20)"}
+[2019-01-03 01:21:55.383] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:21:55.383] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:44:21.734] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:44:21.769] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:44:22.276] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:44:22.277] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 01:47:06.578] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:47:06.578] [exthost] [error] {"seq":0,"type":"response","command":"signatureHelp","request_seq":4643,"success":false,"message":"Error processing request. Cannot read property 'emitNode' of undefined\nTypeError: Cannot read property 'emitNode' of undefined\n    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)\n    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)\n    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)\n    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29\n    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)\n    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)\n    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79\n    at Array.map (<anonymous>)\n    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103375:23\n    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103373:32)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)\n    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)\n    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88\n    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)\n    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)\n    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)\n    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)\n    at emitOne (events.js:116:13)\n    at Interface.emit (events.js:211:7)\n    at Interface._onLine (readline.js:282:10)\n    at Interface._normalWrite (readline.js:424:12)\n    at Socket.ondata (readline.js:141:10)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at Pipe.onread (net.js:594:20)"}
+[2019-01-03 01:47:53.164] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:47:53.164] [exthost] [error] {"seq":0,"type":"response","command":"signatureHelp","request_seq":4710,"success":false,"message":"Error processing request. Cannot read property 'emitNode' of undefined\nTypeError: Cannot read property 'emitNode' of undefined\n    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)\n    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)\n    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)\n    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29\n    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)\n    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)\n    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79\n    at Array.map (<anonymous>)\n    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103375:23\n    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103373:32)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)\n    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)\n    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88\n    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)\n    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)\n    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)\n    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)\n    at emitOne (events.js:116:13)\n    at Interface.emit (events.js:211:7)\n    at Interface._onLine (readline.js:282:10)\n    at Interface._normalWrite (readline.js:424:12)\n    at Socket.ondata (readline.js:141:10)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at Pipe.onread (net.js:594:20)"}
+[2019-01-03 01:58:19.037] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 01:58:19.038] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:01:17.731] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:01:17.731] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:01:26.204] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:01:26.204] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:01:27.867] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:01:27.868] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:01:28.565] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:01:28.566] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:01:48.233] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:01:48.234] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:01:49.101] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:01:49.101] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:02:12.156] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:02:12.157] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:02:15.749] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:02:15.750] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:02:16.036] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:02:16.037] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:02:16.380] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:02:16.381] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:03:24.410] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:03:24.411] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:07:06.751] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:07:06.752] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:07:10.632] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:07:10.632] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:10:34.711] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:10:34.712] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:10:35.535] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:10:35.537] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:10:35.789] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:10:35.789] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:10:46.397] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:10:46.397] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:13:11.115] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:13:11.115] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:16:09.080] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:16:09.081] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:17:02.643] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:17:02.644] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:17:06.319] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:17:06.319] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:17:06.743] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:17:06.743] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:17:09.654] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:17:09.654] [exthost] [error] {"seq":0,"type":"response","command":"signatureHelp","request_seq":7142,"success":false,"message":"Error processing request. Cannot read property 'emitNode' of undefined\nTypeError: Cannot read property 'emitNode' of undefined\n    at Object.getCommentRange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:61694:29)\n    at emitNodeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84239:51)\n    at emitList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:84121:13)\n    at Object.writeList (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:81801:13)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103834:29\n    at Object.mapToDisplayParts (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93989:13)\n    at itemInfoForParameters (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103831:41)\n    at getSignatureHelpItem (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103797:95)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:79\n    at Array.map (<anonymous>)\n    at createSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103770:36)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:120\n    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103442:44\n    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103438:27\n    at Object.firstDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:238:26)\n    at createJSSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103437:56)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103371:56)\n    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)\n    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)\n    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)\n    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88\n    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)\n    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)\n    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)\n    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)\n    at emitOne (events.js:116:13)\n    at Interface.emit (events.js:211:7)\n    at Interface._onLine (readline.js:282:10)\n    at Interface._normalWrite (readline.js:424:12)\n    at Socket.ondata (readline.js:141:10)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at Socket.Readable.push (_stream_readable.js:208:10)\n    at Pipe.onread (net.js:594:20)"}
+[2019-01-03 02:17:15.003] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:17:15.004] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:18:31.751] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:18:31.751] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:18:58.261] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:18:58.262] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:18:59.533] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:18:59.533] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:19:01.763] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:19:01.763] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:19:02.909] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:19:02.910] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:19:03.041] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:19:03.041] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:19:04.393] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:19:04.394] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:19:05.364] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:19:05.364] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:19:05.786] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:19:05.787] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:20:54.187] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:20:54.187] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:20:55.177] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:20:55.177] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:20:56.140] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:20:56.140] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
+[2019-01-03 02:21:12.059] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-01-03 02:21:12.060] [exthost] [error] TypeError: Cannot read property 'displayParts' of undefined
+    at w.resolveCompletionItem (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:99110)
+    at <anonymous>
