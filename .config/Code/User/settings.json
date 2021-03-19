@@ -1,7 +1,0 @@
-{
-    "editor.fontFamily": "'Fira Code iscript'",
-    "workbench.colorTheme": "Palenight Italic",
-    "editor.fontLigatures": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "files.autoSave": "onWindowChange"
-}
